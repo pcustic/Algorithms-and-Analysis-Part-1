@@ -1,0 +1,3 @@
+Implementacija Quicksort algoritma (uz brojanje zamjena, zbog opisa zadatka na Courseri).
+
+Pivot se odabire kao medijan izmedju prvog elementa, srednjeg elementa i zadnjeg elementa u nizu. Prilozena je i datoteka QuickSort.txt za testiranje. 

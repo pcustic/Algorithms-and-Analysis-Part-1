@@ -1,0 +1,1 @@
+Program koji Kargerovim algoritmom nalazi min cut nekog grafa. Jedan primjer grafa je dan u datoteci "KargerMinCut.txt". Format ulaznih podataka je prvo oznaka cvora grafa pa onda oznake cvorova s kojim je taj graf vezan.

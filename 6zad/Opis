@@ -1,0 +1,3 @@
+U ovom programu ucitavamo broj po broj (njih 10000) te u svakom trenutku pomocu dvije hrpe (jedna min,druga max) racunamo medijan dosad ucitanih vrijednosti. 
+
+U datoteci "Median.txt" se nalazi 10000 brojeva za testiranje. Program na kraju izbaci i sumu tih medijana modulo 10000 jer se to trazilo za Courserin evaluator.

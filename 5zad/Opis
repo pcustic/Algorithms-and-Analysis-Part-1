@@ -1,0 +1,2 @@
+Dijsktrinim algoritmom racuna najmanju udaljenost svih cvorova do cvora 1. Dan je i primjer sa datotekom "DijkstraData.txt" sa 200 cvorova.
+Format unosa je za svaki red prvo oznaka cvora a onda niz parova brojeva gdje je prvi broj cvor s kojim je vezan a drugi broj tezina brida.

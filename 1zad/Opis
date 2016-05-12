@@ -1,0 +1,5 @@
+Ovo je kod za program koji broji inverzije u nizu. Inverzije su parovi indeksa (i,j) u nizu za koje je i < j i niz[i] > niz[j].
+
+Program radi slicno kao klasican Merge sort - dijeli (rekurzivno) niz na dva dijela, broji inverzije u lijevom dijelu, broji inverzije u desnom dijelu te inverzije kojima je jedan broj u lijevom dijelu a drugi u desnom. On zapravo i sortira niz te to koristi za brojanje inverzija.
+
+Tu je i dokument za testiranje "IntegerArray.txt", u njemu trebaju biti 100 000 brojeva, od 1 do 100 000 odvojeni razmakom ili novim redom. Moze se testirati i na manjem nizu ali onda treba promijeniti par brojeva u kodu.
